@@ -1,0 +1,13 @@
+{
+    "wait": "♻️ Please wait...*",
+    "error": {
+        "Iv": "*⚠️ The link you provided is invalid!*",
+        "api": "*⚠️ Sorry, An Error Occurred!*"
+    },
+    "OnlyGrup": "*⛔ This is a group command!*",
+    "OnlyPM": "*⛔️ This command can only be used in private messages!*",
+    "GrupAdmin": "*⛔️ This command can only be used by Group Admins!*",
+    "BotAdmin": "😬 *Bot must be an admin!*",
+    "OnlyOwner": "*⛔️ This command can only be used by the bot owner!*",
+    "OnlyPrem": "*⛔️ This command is only for premium members!*"
+}
